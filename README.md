@@ -1,4 +1,4 @@
--### Salut, je suis  @inesbl113 👋
+Salut, je suis  @inesbl113 👋
 
 👀 Je suis passionnée par le développement logiciel et je m'intéresse particulièrement à la programmation web et au développement .NET.
 
